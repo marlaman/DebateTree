@@ -11,4 +11,8 @@ HTMLParser==0.0.2
 ipython==8.14.0
 ipywidgets==8.0.6
 Jinja2==3.1.2
-jnius==1.1.0
+
+
+
+
+
