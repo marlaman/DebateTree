@@ -28,3 +28,4 @@ trove_classifiers==2023.5.24
 truststore==0.7.0
 urllib3_secure_extra==0.1.0
 xmlrpclib==1.0.1
+Cython
