@@ -4,7 +4,7 @@ chromadb==0.3.21
 ConfigParser==5.3.0
 contextlib2==21.6.0
 cryptography==40.0.2
-
+openai 
 dl==0.1.0
 docutils==0.20.1
 HTMLParser==0.0.2
