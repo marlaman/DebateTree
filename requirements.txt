@@ -1,0 +1,4 @@
+chromadb==0.3.21
+langchain==0.0.196
+Requests==2.31.0
+streamlit==1.22.0
