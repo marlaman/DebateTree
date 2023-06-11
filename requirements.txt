@@ -1,4 +1,4 @@
-Cython
+cython
 attr==0.3.2
 chromadb==0.3.21
 ConfigParser==5.3.0
