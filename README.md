@@ -1,7 +1,7 @@
 # DebateTree
 A langchain app to visualise a debate using Tree-of-Thought reasoning
 
-
+<html>
 <pre class="mermaid" style="width:1000px,height:400px">
             
        
@@ -22,3 +22,4 @@ graph TB
             import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
             mermaid.initialize({{ startOnLoad: true }});
         </script>
+            </html>
