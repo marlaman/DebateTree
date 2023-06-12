@@ -1,5 +1,5 @@
 # DebateTree
-A langchain app to visualise a debate using LLMs and Langchains. Inspired by Tree-of-Thought reasoning. I believe that efficient debate is a tool to reach the truth.
+A langchain app to visualise a debate using LLMs and Langchains. Inspired by Tree-of-Thought reasoning.
 
 ```mermaid
 graph TB
