@@ -23,3 +23,4 @@ Things to add:
    - Green nodes that disgaree with the criticism and validate the argument
    - Red nodes that agree with the criticism and invalidate the argument
    - Orange nodes that reduce the debate on the argument to a fundamental question that can be further debated.
+5) Functionality to explore a new question.
