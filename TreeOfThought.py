@@ -23,8 +23,8 @@ import json
 
 
 os.environ['OPENAI_API_KEY'] = ""
-os.environ['SERPAPI_API_KEY'] = "ea4c71754768b5607eebd56e162a3aee7f92877f4ec2aa110ea295d5a28233a1"
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
+os.environ['SERPAPI_API_KEY'] = ""
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = ""
 os.environ["RESULTS_STORE_NAME"] = 'marla-ai-political-correctness'
 
 # Table config
